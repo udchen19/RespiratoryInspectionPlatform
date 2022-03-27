@@ -2,6 +2,8 @@
 
 A residual neural network for potential disease checks, using respiratory sounds recorded by microphoned stethoscopes.
 
+**This project won 3rd Place in the 4th Young Turing Program of SYSTEX in March 2020.**
+
 ## Usage
 
 1. Record your respiratory sounds by handcrafted recorders.
